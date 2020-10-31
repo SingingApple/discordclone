@@ -18,6 +18,7 @@ const Sidebar = () => {
           <AddIcon className="sidebar__addChannel"></AddIcon>
         </div>
       </div>
+      <div className="sidebar__channelsList"></div>
     </div>
   );
 };
